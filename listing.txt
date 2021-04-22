@@ -1,0 +1,6 @@
+total 16
+drwxrwxr-x 3 kinorev kinorev 4096 Apr 22 21:40 .
+drwxrwxr-x 4 kinorev kinorev 4096 Apr 22 21:21 ..
+drwxrwxr-x 8 kinorev kinorev 4096 Apr 22 21:33 .git
+-rw-rw-r-- 1 kinorev kinorev   31 Apr 22 21:33 README.md
+-rw-rw-r-- 1 kinorev kinorev    0 Apr 22 21:40 listing.txt
